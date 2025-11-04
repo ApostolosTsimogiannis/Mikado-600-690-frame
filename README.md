@@ -1,2 +1,13 @@
 # Mikado-600-690-frame
 This is one of the side projects of the DS.X RC Heli Project. The complete re-design of the Mikado 600/690 family plastic frame from carbon and aluminium CNC parts. The main goal was to maintain the very low weight of the plastic frame but improve on several aspects like motor placement and size compatibility, larger battery space, higher regidity.
+
+![m6-3](https://github.com/user-attachments/assets/51ca8015-f0af-427e-aa95-804925613890)
+
+![1634747015812](https://github.com/user-attachments/assets/5a5c71fa-db5e-4374-ae86-ebad710b4918)
+
+![1641547458246](https://github.com/user-attachments/assets/4d2f099d-92b0-41bd-a15f-768f6433e20f)
+
+Licensing:
+This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+<img width="1089" height="125" alt="image" src="https://github.com/user-attachments/assets/b5e78f1d-0fe7-4227-9eb7-af1ea4bf980c" />
